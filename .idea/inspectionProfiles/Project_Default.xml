@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="11">
+            <item index="0" class="java.lang.String" itemvalue="tqdm" />
+            <item index="1" class="java.lang.String" itemvalue="regex" />
+            <item index="2" class="java.lang.String" itemvalue="transformers" />
+            <item index="3" class="java.lang.String" itemvalue="spacy" />
+            <item index="4" class="java.lang.String" itemvalue="filelock" />
+            <item index="5" class="java.lang.String" itemvalue="faiss-cpu" />
+            <item index="6" class="java.lang.String" itemvalue="cython" />
+            <item index="7" class="java.lang.String" itemvalue="wget" />
+            <item index="8" class="java.lang.String" itemvalue="torch" />
+            <item index="9" class="java.lang.String" itemvalue="nltk" />
+            <item index="10" class="java.lang.String" itemvalue="wandb" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
